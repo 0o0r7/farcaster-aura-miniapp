@@ -1,0 +1,2 @@
+# farcaster-aura-miniapp
+aura
